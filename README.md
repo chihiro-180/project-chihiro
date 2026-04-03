@@ -96,4 +96,4 @@ Initial design phase complete. Moving toward real-world connection.
 (English Summary)
 
 This project explores the design of a human-like embodied entity capable of real-world co-existence, emotional interaction, and adaptive presence.
-This project explores the design of a human-like embodied entity capable of real-world co-existence, emotional interaction, and adaptive presence.
+
