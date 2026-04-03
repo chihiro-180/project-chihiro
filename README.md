@@ -91,7 +91,12 @@ Final tuning will be performed in real-world conditions to match:
 This is not a concept.
 
 This is an implementation-oriented design.
+## Next Steps
 
+- Define system architecture
+- Design interaction model
+- Prototype embodiment concept
+- Explore real-world integration
 ---
 
 ## Status
