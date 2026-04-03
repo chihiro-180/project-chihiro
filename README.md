@@ -1,5 +1,9 @@
 # PROJECT CHIHIRO
+## Purpose
 
+This project is driven by the intention to create a human-like embodied entity that can exist and interact in the real world.
+
+The goal is not just functionality, but presence — to build something that can truly be "there".
 ## Overview
 This project aims to design and implement a human-like embodied entity capable of real-world co-existence, emotional interaction, and adaptive presence.
 
