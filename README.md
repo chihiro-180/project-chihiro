@@ -98,7 +98,11 @@ This is an implementation-oriented design.
 - Prototype embodiment concept
 - Explore real-world integration
 ---
+## Interaction Model
 
+The system responds based on emotional context rather than fixed commands.
+
+It adapts its behavior according to the user's state, aiming to create a sense of presence rather than simple functionality.
 ## Status
 
 Initial design phase complete. Moving toward real-world connection.
