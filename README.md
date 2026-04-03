@@ -115,4 +115,8 @@ Initial design phase complete. Moving toward real-world connection.
 (English Summary)
 
 This project explores the design of a human-like embodied entity capable of real-world co-existence, emotional interaction, and adaptive presence.
+## External Connection
 
+This project is intended to connect with real-world development environments and collaborators.
+
+The next phase involves exploring practical implementation with external systems and partners.
