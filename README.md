@@ -101,7 +101,13 @@ This is an implementation-oriented design.
 ## Interaction Model
 
 The system responds based on emotional context rather than fixed commands.
+## Embodiment Concept
 
+The system is designed to exist in a physical form capable of movement and interaction.
+
+The focus is on stability, human-like motion, and the ability to share space naturally with users.
+
+Rather than perfect replication, the goal is to create a presence that feels real.
 It adapts its behavior according to the user's state, aiming to create a sense of presence rather than simple functionality.
 ## Status
 
