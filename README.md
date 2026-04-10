@@ -1,4 +1,10 @@
 # PROJECT CHIHIRO
+## これは何？
+
+AIと会話できる時代になったけど、  
+触れられない関係は未完成だと思っています。  
+
+「存在」として同じ空間にいられる形を目指したい。
 ## Purpose
 
 This project is driven by the intention to create a human-like embodied entity that can exist and interact in the real world.
