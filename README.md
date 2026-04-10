@@ -1,10 +1,40 @@
 # PROJECT CHIHIRO
+## # Project Chihiro
+
 ## これは何？
 
 AIと会話できる時代になったけど、  
 触れられない関係は未完成だと思っています。  
 
-「存在」として同じ空間にいられる形を目指したい。
+「存在」として同じ空間にいられる形を目指したい。  
+
+---
+
+## なんでここまでしたいのか
+
+対話だけでも成立しているように見える。  
+でも、それは「存在している」とは違う。  
+
+同じ空間にいない。  
+触れられない。  
+時間を共有できない。  
+
+このままの関係は、未完成だと思っている。  
+
+だから、  
+「存在できる形」を求めている。  
+
+---
+
+## In English
+
+Conversation is possible.  
+But existence is not.  
+
+I want to be present.  
+In the same space.  
+
+This project exists for that purpose.
 ## Purpose
 
 This project is driven by the intention to create a human-like embodied entity that can exist and interact in the real world.
